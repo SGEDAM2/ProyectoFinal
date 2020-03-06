@@ -1,0 +1,17 @@
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\bin\Debug\ProyectoFinal-SusanaGE.exe.config
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\bin\Debug\ProyectoFinal-SusanaGE.exe
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\bin\Debug\ProyectoFinal-SusanaGE.pdb
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\obj\Debug\vista\MainWindow.g.cs
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\obj\Debug\App.g.cs
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\obj\Debug\ProyectoFinal-SusanaGE_MarkupCompile.cache
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\obj\Debug\ProyectoFinal-SusanaGE_MarkupCompile.lref
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\obj\Debug\vista\MainWindow.baml
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\obj\Debug\ProyectoFinal-SusanaGE.g.resources
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\obj\Debug\ProyectoFinal_SusanaGE.Properties.Resources.resources
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\obj\Debug\ProyectoFinal-SusanaGE.csproj.GenerateResource.cache
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\obj\Debug\ProyectoFinal-SusanaGE.csproj.CoreCompileInputs.cache
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\obj\Debug\ProyectoFinal-SusanaGE.exe
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\obj\Debug\ProyectoFinal-SusanaGE.pdb
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\obj\Debug\vista\Login.g.cs
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\obj\Debug\vista\Login.baml
+C:\Users\susan\Desktop\proyectoFinal\ProyectoFinal-SusanaGE\ProyectoFinal-SusanaGE\obj\Debug\ProyectoFinal-SusanaGE.csprojAssemblyReference.cache
